@@ -1,7 +1,7 @@
 👋 Willkommen auf meinem GitHub-Profil!
 
 Hey! Schön, dass du hier bist.  
-Ich heiße Erisk Reyes und bin gerade im 1. Semester meiner Ausbildung zum Applikationsentwickler EFZ an der Benedictschule in Zürich.
+Ich heiße Erisk Reyes und bin gerade im 3. Semester meiner Ausbildung zum Applikationsentwickler EFZ an der Benedictschule in Zürich.
 
 Ich habe mich entschieden, etwas Neues zu wagen – raus aus dem Handwerk, rein in die Welt der Informatik. Für mich ist das ein spannender Neuanfang, und hier möchte ich zeigen, was ich auf diesem Weg lerne und ausprobiere.
 
