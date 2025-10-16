@@ -30,4 +30,5 @@ Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schre
 
 Danke fürs Vorbeischauen! Ich freue mich, wenn du meine Reise hier ein Stück begleitest 😊
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=EriskReyes) -->
+![Profile Views](https://komarev.com/ghpvc/?username=EriskReyes&color=blue)
+
