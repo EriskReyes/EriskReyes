@@ -25,7 +25,7 @@ Wenn du mir Feedback geben willst oder dich einfach austauschen möchtest, schre
 
  ✉️ E-Mail: rigo.erick.reyes@outlook.com  
  🧑‍💼 LinkedIn: https://www.linkedin.com/in/Erisk-Reyes/  
- 🖥️ Digital Card Online: https://www.rikroig.dev
+ 🖥️ Persönliches Website: https://www.rikroig.dev
 
 
 Danke fürs Vorbeischauen! Ich freue mich, wenn du meine Reise hier ein Stück begleitest 😊
